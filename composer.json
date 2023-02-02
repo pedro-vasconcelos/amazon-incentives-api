@@ -1,6 +1,7 @@
 {
-    "name": "kamerk22/amazongiftcode",
+    "name": "pedro-vasconcelos/amazon-incentives-api",
     "description": "Laravel Package for Amazon Gift Codes.",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
